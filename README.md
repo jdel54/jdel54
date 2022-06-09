@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdel54
 - 👀 I’m interested in tech, business and coding
-- 🌱 I’m currently learning a little bit of everything. Getting deeper in Javascript, NODE JS, Mongo DB, React
+- 🌱 I’m currently learning a little bit of everything. Getting deeper in Javascript, React, NextJS, NODE JS, Mongo DB
 - 💞️ I’m looking to collaborate on exciting tech scalabale projects
 - 📫 Drop me an email on: jorgedcastillogarcia@gmail.com
 
